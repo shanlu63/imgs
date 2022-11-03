@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 48,
+    "height" : 38
+  }, {
+    "width" : 95,
+    "height" : 76
+  }, {
+    "width" : 190,
+    "height" : 151
+  }, {
+    "width" : 379,
+    "height" : 302
+  }, {
+    "width" : 758,
+    "height" : 604
+  }, {
+    "width" : 1516,
+    "height" : 1208
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1516,
+  "@id" : "https://shanlu63.github.io/imgs/images/Capture1",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1208
+}
