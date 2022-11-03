@@ -1,0 +1,66 @@
+{
+  "id" : "https://shanlu63.github.io/imgs/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in shanlu63/imgs project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 1516,
+    "id" : "https://shanlu63.github.io/imgs/images/Capture1/canvas/",
+    "label" : {
+      "none" : [ "Capture1" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://shanlu63.github.io/imgs/images/Capture1/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://shanlu63.github.io/imgs/images/Capture1/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 48,
+              "height" : 38
+            }, {
+              "width" : 95,
+              "height" : 76
+            }, {
+              "width" : 190,
+              "height" : 151
+            }, {
+              "width" : 379,
+              "height" : 302
+            }, {
+              "width" : 758,
+              "height" : 604
+            }, {
+              "width" : 1516,
+              "height" : 1208
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1516,
+            "@id" : "https://shanlu63.github.io/imgs/images/Capture1",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1208
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1516,
+          "id" : "https://shanlu63.github.io/imgs/images/Capture1/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1208
+        },
+        "target" : "https://shanlu63.github.io/imgs/images/Capture1/canvas/"
+      } ]
+    } ],
+    "height" : 1208
+  } ]
+}
