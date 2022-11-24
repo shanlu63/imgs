@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 63,
+    "height" : 32
+  }, {
+    "width" : 125,
+    "height" : 63
+  }, {
+    "width" : 250,
+    "height" : 125
+  }, {
+    "width" : 500,
+    "height" : 250
+  }, {
+    "width" : 1000,
+    "height" : 500
+  }, {
+    "width" : 2000,
+    "height" : 1000
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2000,
+  "@id" : "https://shanlu63.github.io/imgs/images/mi3",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1000
+}
